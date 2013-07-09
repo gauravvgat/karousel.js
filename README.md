@@ -8,8 +8,8 @@ Karousel follows a very simple pattern. A wrapping div containing .karousel-cont
 <div id="#banner">
 <div class="karousel-content">
   <div> </div>
-  <div> </div>
-  <div> </div>
+  <div style="display:none;"> </div>
+  <div style="display:none;"> </div>
 </div>
 </div>
 ```
