@@ -56,14 +56,12 @@ You can view all kinds of carousels here (http://kumarappana.github.io/Karousel)
 
 
 ## Enhancements
-My goal is to keep this plugin as simple as possible but 2 possible enhancements I may add are:
+The goal is to keep this plugin as simple as possible but 2 possible enhancements can be added:
 
 - 1:1 swipe movement when using slide animations.
 
 - optional callback after each slide transition could be helpful.
 
-If there is something else you would like added or you notice any issues with this plugin please let me know via [Facebook](http://facebook.com/kumarappan.arumugam) or [GitHub](http://github.com/kumarappanA).
-
 
 ## License
-Karousel jQuery plugin is &copy; 2013 [Kumarappan](http://kumarappan.co.nf) and is licensed under the terms of GPL &amp; MIT licenses.  
+Karousel jQuery plugin is &copy; 2013 [HuntShire](http://www.huntshire.com) and is licensed under the terms of GPL &amp; MIT licenses.
