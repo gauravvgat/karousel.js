@@ -64,4 +64,4 @@ The goal is to keep this plugin as simple as possible but 2 possible enhancement
 
 
 ## License
-Karousel jQuery plugin is &copy; 2013 [HuntShire](http://www.huntshire.com) and is licensed under the terms of GPL &amp; MIT licenses.
+Karousel jQuery plugin is licensed under the terms of GPL &amp; MIT licenses.
