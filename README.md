@@ -61,7 +61,3 @@ The goal is to keep this plugin as simple as possible but 2 possible enhancement
 - 1:1 swipe movement when using slide animations.
 
 - optional callback after each slide transition could be helpful.
-
-
-## License
-Karousel jQuery plugin is licensed under the terms of GPL &amp; MIT licenses.
